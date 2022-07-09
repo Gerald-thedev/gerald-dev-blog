@@ -1,6 +1,5 @@
 ## Understanding The CSS Box Model
 
-## Introduction
 A box, we always tend to think outside of it whenever we want to have thoughts that are unconventional. In CSS, its representation is entirely different. The box model is a way CSS handles its layout and design. Every element you can find in HTML is always wrapped by an imaginary box. This box becomes visible only when this single line of code, "**border: 2px solid black;**" is added to an element. All of a sudden, your vision is no longer blurry. Just this line of code can bring about clarity. 
 
 In this article, we will be discussing the main components that make up the box model, which are; the **margin**, **border**, **padding**, and the **content** itself. 
