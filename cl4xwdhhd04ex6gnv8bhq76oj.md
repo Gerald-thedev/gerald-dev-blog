@@ -1,4 +1,4 @@
-## How CSS Position Properties Work
+## CSS Position Properties
 
 Every element in CSS needs to be positioned in a particular area on the web page. Various position properties have certain behaviors they exhibit when used on an element. We have five different position properties that can be used, depending on where you want the element to be placed.
 You know how the navigation bar sticks along with you when scrolling through a page on a website, or how some of those annoying adverts remain in a fixed position that you can't get rid of? Not to mention those annoying cookies that pop up at the bottom of the page you sometimes don't feel like accepting, simply because they intend not to offer you an actual cookie? 
