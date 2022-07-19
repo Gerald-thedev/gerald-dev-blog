@@ -118,7 +118,7 @@ We recommend you go to this website, [flexbox froggy](https://flexboxfroggy.com/
 ## Conclusion 
 With this tutorial, we are sure that you will be able to differentiate between the use of the grid system and flexbox, and how they can be combined to create layouts of a webpage. It's totally okay to have knowledge of just the grid system. The main aim is to master it and be fluent in its application to your projects. Although, once you play the Flexbox froggy game, you'll soon realize the power of flexbox. Always keep this in mind, the grid system is for a two-dimensional layout mostly used for creating the layout of an entire page, both horizontal and vertical layouts at the same time. As for Flexbox, it is used for aligning items within an enclosed area. Flexbox is considered one-dimensional for either horizontal or vertical layouts.
 
-Let us know your preference in the comments section below. Which would you prefer to use in your projects now you know the difference between the Grid system and Flexbox?
+Let us know your preference in the comments section below. Which would you prefer to use in your projects now you know the difference between the Grid system and Flexbox or would you rather use both?
 
   
 
