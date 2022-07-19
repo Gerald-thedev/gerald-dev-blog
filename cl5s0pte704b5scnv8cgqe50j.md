@@ -68,7 +68,7 @@ If you compare this with the previous layout just above, you will be able to tel
 ## Flexbox
 Flexbox, as opposed to the grid system, is simply a layout tool in CSS that is very useful in smaller areas of a webpage, especially within grid areas. The main feature of flexbox is to align items on a horizontal **OR** vertical axis, i.e; one-dimensional. Floats were once used for making layouts. Although it is believed that it has been replaced by flexbox to a certain degree and flexbox is here to stay. The use of flexbox has made the lives of developers a lot easier and we will show you how.
 
-### An example showing how items are aligned using Flexbox
+### Items Aligned Horizontally Using Flexbox
 <iframe height="300" style="width: 100%;" scrolling="no" title="Flexbox1" src="https://codepen.io/Mistar_codepen/embed/dymOWbe?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/Mistar_codepen/pen/dymOWbe">
   Flexbox1</a> by Gerald Ofokansi (<a href="https://codepen.io/Mistar_codepen">@Mistar_codepen</a>)
