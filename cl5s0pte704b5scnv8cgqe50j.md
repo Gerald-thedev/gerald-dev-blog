@@ -31,7 +31,7 @@ We will not be going in-depth on how to create a grid system because that is an 
 Let's not get carried away and focus on the difference between the Grid system and Flexbox and knowing how to utilize both layout systems within our projects.   
 
 Here is a typical example of how you can use the Grid system to create a page layout.
-### The Grid system (Desktop view)
+### The Grid System (Desktop view)
 
 <iframe height="300" style="width: 100%;" scrolling="no" title="Untitled" src="https://codepen.io/Mistar_codepen/embed/abYBppM?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/Mistar_codepen/pen/abYBppM">
@@ -46,7 +46,7 @@ Using the **grid-template-areas** property is the easiest way to create a page l
 
 We can create a mobile view by manipulating the **grid-template-areas** property and changing the layout to a single-column view.
 
-### Mobile view layout using the grid system
+### The Grid System(Mobile view)
 <iframe height="300" style="width: 100%;" scrolling="no" title="Grid(Mobile view)" src="https://codepen.io/Mistar_codepen/embed/OJvWJEp?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/Mistar_codepen/pen/OJvWJEp">
   Grid(Mobile view)</a> by Gerald Ofokansi (<a href="https://codepen.io/Mistar_codepen">@Mistar_codepen</a>)
