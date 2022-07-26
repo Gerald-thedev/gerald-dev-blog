@@ -56,7 +56,7 @@ We have created 10 grid items, we also created 5 columns and 2 rows. The rows we
 
 Although we created those 5 columns by writing 100px five times. So imagine we wanted 10 columns, does it mean we are going to write 100px ten times? I don't think we want to be doing that, let alone if we wanted 20 or 30 columns, that will be a lot tedious doing that with the way we just did. There is a shorter way of defining the number of columns we want and we use something called the repeat function.
 
-## The repeat Function
+## The Repeat Function
 
 To avoid repetition of code, let us try and create a single row with 5 columns using the repeat function rather than writing 100px five times as we did earlier.
 
