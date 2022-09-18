@@ -1,4 +1,4 @@
-## Why Human-Centered Design Is Important As A Front-End Developer
+## Why Human-Centered Design is Important to Front-End Development
 
 Have you ever wondered if a website or web application built by you will ever be used or have an impact on the daily lives of people? You might be thinking about your new application and how aesthetically pleasing it looks to you, but you know within you, there's always this question that lingers, "does it have any form of utility?" I believe what is being developed isn't just for you, but to meet the needs of end-users.   
 
