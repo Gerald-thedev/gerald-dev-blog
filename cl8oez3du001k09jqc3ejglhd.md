@@ -8,7 +8,7 @@ A wireframe is a blueprint that helps designers to come up with a structure for 
 It is more like a rough sketch of what the final design will look like. You don't have to be Picasso to draw wireframes for your designs. The most important thing is that you convey the message and the aim of that design is achieved. Even a five-year-old can sketch wireframes, as long as the idea of the design is understood. Besides, wireframes are not supposed to be aesthetically pleasing. 
 
 
- ![sigmund-4UGmm3WRUoQ-unsplash.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1664222610817/vd0JWjY9c.jpg align="left")Source: Sigmund from Unsplash
+ ![sigmund-4UGmm3WRUoQ-unsplash.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1664222610817/vd0JWjY9c.jpg align="left")Source: [unsplash](https://unsplash.com/photos/4UGmm3WRUoQ)
 
 
 ## Stages of Wireframes
@@ -26,7 +26,7 @@ This stage is where decisions are made pertaining to the entire design, whereby 
 
 ![faizur-rehman-dJpupM4LiS4-unsplash (1).jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1664482025349/0IL3yK5GR.jpg align="left")
 
-Source: Faizur Rehman from Unsplash
+Source: [unsplash](https://unsplash.com/photos/dJpupM4LiS4)
 
 
 
@@ -40,7 +40,7 @@ Although, this stage of the wireframe is to get a feel of what the real project 
  
 ![eftakher-alam-i1VQZsU86ok-unsplash.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1664482545611/F81R5Vdut.jpg align="left")
 
-Source: Eftakher Alam from Unspalsh
+Source: [unsplash](https://unsplash.com/photos/i1VQZsU86ok)
 
 
 
