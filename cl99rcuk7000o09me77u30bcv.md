@@ -7,7 +7,7 @@ Before the arrival of ES6(ECMAScript version 6) in 2015, one of the oldest ways 
 
 Here are some of the ways to declare a variable using the var keyword with regard to its **scope**.
 
-## What is variable scope?
+## What is a variable scope?
 A **scope** is the availability of variables either globally or locally. 
 
 - Globally, in the sense that the variable can be seen everywhere and used within any part of the script, likewise, within a function.
